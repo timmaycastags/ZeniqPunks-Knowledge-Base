@@ -3,7 +3,7 @@
 ## Zeniq CryptoPunks
 **New Chain, Same Punk**
 
-Why [Zeniq](https://www.zeniq.com) blockchain?  I really don't know.  Zeniq is has a proprietary blockchain.  The source code is not open.  The chain is being developed by a corporation.  Not only is the chain closed, the hardware to run a node is also closed.  The only way to get a node is to purchase it from the corp.  The chain has plans to tokenize assets and make crypto easier via their proprietary hardware and software.  But, to reach to defi, they need a bridge.  And that bridge is a EVM clone ZEN-20.
+Why [Zeniq](https://www.zeniq.com) blockchain?  I really don't know.  Zeniq is a proprietary blockchain.  The source code is not open.  The chain is being developed by a corporation.  Not only is the chain closed, the hardware to run a node is also closed.  The only way to get a node is to purchase it from the corp.  The chain has plans to tokenize assets and make crypto easier via their proprietary hardware and software.  But, to reach to defi, they need a bridge.  And that bridge is a EVM clone called ZEN-20.
 
 And quite frankly, that is where they fucked up. 
 
