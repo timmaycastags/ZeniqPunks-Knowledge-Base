@@ -15,4 +15,4 @@ The proliferation of crypto networks is due to the success of [Bitcoin](https://
 
 Other blockchains have proven to shown value.  Ethereum has shown value with Defi and NFTs using smart contracts.  Copycats have come for Ethereum too.  And I believe you can't put pandora back in the box.  The future of the cryptoweb will be multi-chain and multi-layer.  These chains will be interoperable. Value will flow at the speed of light, accelerated by technology and advances in AI.  Blockchains that take advantage of specific use cases and continue to build will have a fighting chance to compete in this future cryptoweb.  
 
-## Zeniq
+## Zeniq Blockchain
