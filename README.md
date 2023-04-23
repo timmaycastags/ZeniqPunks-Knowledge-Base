@@ -20,4 +20,5 @@ Anonymity and cryptography are the heart that defines a [CryptoPunk](https://www
 
 I feel that is the original reason that profile picture [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) got popular were the fact that you could identify yourself anonymously on the blockchain.  Profile pictures have been used for messaging applications and social networks for giving a visual representation of an account.  It gives the user the choice of privacy.  NFT profile pictures perform the same function, but with the added benefit of being on-chain.  I find NFTs to be a great complement to a privacy minded Crytopunk.
 
-
+## Zeniqpunks History
+The idea for the creation of ZeniqPunks came from a group of [SpacePunkClub](https://www.spacepunks.club/) members.  Spacepunks are a NFT project on the Ethereum blockchain.  Spacepunkclub decided to invest in Zeniq as a way to reward members.  Spacepunksclub (and Spacepunk members) own Zeniq nodes, hubs, and mint Zeniq projects like Tupan.  Spacepunk club minted tokens on the Zeniq blockchain are distributed to members as rewards.  Once the Zeniq EVM smart chain was annouced, it was a clear opportunity to estabilsh a NFT profile picture collection
