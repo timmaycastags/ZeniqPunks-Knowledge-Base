@@ -24,8 +24,8 @@ I feel that is the original reason that profile picture [NFTs](https://en.wikipe
 The idea for the creation of ZeniqPunks came from a group of [SpacePunkClub](https://www.spacepunks.club/) members.  Spacepunks are a NFT project on the Ethereum blockchain.  Spacepunkclub decided to invest in Zeniq as a way to reward members.  Spacepunksclub (and Spacepunk members) own Zeniq nodes, hubs, and mint Zeniq projects like Tupan.  Spacepunk club minted tokens on the Zeniq blockchain are distributed to members as rewards.  Once the Zeniq EVM smart chain was annouced, it was a clear opportunity to estabilsh a NFT profile picture collection with ties back to Ethereum and the Spacepunks Club.
 
 Cryptopunks on Ethereum are known for their 
-Phunks
-CC0
+Phunks https://phunks.gitbook.io/knowledge-base/about/readme/phunk-is-../phunk-is-web3
+CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
 Spacepunks
 
 1000 creator
