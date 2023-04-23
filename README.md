@@ -33,5 +33,6 @@ Spacepunks
 
 opensource
 
+The future of zeniqpunks are yet to be written
 
 
