@@ -1,4 +1,4 @@
-# ZeniqPunks-NFT
+# Zeniq CryptoPunks Wiki
 
 ## Zeniq CryptoPunks
 *New Chain, Same Punk*
