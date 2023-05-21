@@ -27,16 +27,14 @@ So naturally, once the Zeniq EVM smart chain was annouced, it was a clear opport
 
 
 ## Zeniqpunks Future
-The future of Zeniq CryptoPunks is yet to be written.  And it won't be written by me alone.  I invite crypto enthusiasts to join in this journey.  Feel free to reachout to collaborate.
+The future of Zeniq CryptoPunks is yet to be written.  And it won't be written by me alone.  It is not my intention "lead" this collection.  In fact its quiet the opposite.  I invite ZENIQ blockchain enthusiasts to join in this journey.  Feel free to reachout to collaborate. 
 
 ## Zeniqpunks Details 
-10,000 Supply
-ERC-721 Standard
-License [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-Cost = Free (as in beer)
-1,000 Minted by creator
-Open Sourced
-
-
-
+* 10,000 Supply
+* ERC-721 Standard
+* License [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+* Cost = Free (as in beer)
+* 1,000 Minted by creator
+* Open Sourced
+* On-chain storage with [Arweave](https://www.arweave.org/)
 
