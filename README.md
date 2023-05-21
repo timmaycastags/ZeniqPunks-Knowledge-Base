@@ -21,20 +21,22 @@ Anonymity and cryptography are the heart that defines a [CryptoPunk](https://www
 I feel that is the original reason that profile picture [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) got popular were the fact that you could identify yourself anonymously on the blockchain.  Profile pictures have been used for messaging applications and social networks for giving a visual representation of an account.  It gives the user the choice of privacy.  NFT profile pictures perform the same function, but with the added benefit of being on-chain.  I find NFTs to be a great complement to a privacy minded Crytopunk.
 
 ## Zeniqpunks History
-The idea for the creation of ZeniqPunks came from a group of [SpacePunkClub](https://www.spacepunks.club/) members.  Spacepunks are a NFT project on the Ethereum blockchain.  Like most NFT projects, the club was rugged by founders (twice) and left to defend for itself.  The crypto enthusiasts that remained at Spacepunkclub decided to invest in Zeniq.  Spacepunksclub (and Spacepunk members) own Zeniq nodes, hubs, and mint Zeniq projects like [Tupan](https://www.tupan.io/).  Spacepunk club community minted tokens from the Zeniq hubs are distributed to members as rewards.  So naturally, once the Zeniq EVM smart chain was annouced, it was a clear opportunity to estabilsh a NFT profile picture collection with ties back to Ethereum and the Spacepunks Club, yet also signals the beginning of a new community on ZENIOQ.  
+The idea for the creation of Zeniq Punks came from a group of [SpacePunkClub](https://www.spacepunks.club/) members.  Spacepunks are a NFT project on the Ethereum blockchain.  Like most NFT projects, the club was rugged by founders (twice) and left to defend for itself.  The crypto enthusiasts that remained at Spacepunkclub decided to invest in Zeniq.  Spacepunksclub (and Spacepunk members) own Zeniq nodes, hubs, and mint Zeniq projects like [Tupan](https://www.tupan.io/).  Spacepunk club community minted tokens from the Zeniq hubs are distributed to members as rewards.  
 
-I choose to create the collection with ties 
+So naturally, once the Zeniq EVM smart chain was annouced, it was a clear opportunity to estabilsh a NFT profile picture collection with ties back to Ethereum and the Spacepunks Club, yet also signals the beginning of a new community on ZENIQ.  With that in mind, I decided to utilize popular Ethereum culture, counter culture, and sprinkle it with Spacepunks culture to make ZENIQ CryptoPunks.  Blockchains tell a story, that can't be altered, forever engrained in the chain.  Truth is there for the ones willing to take the journey.  I won't rob you the pleasure of digging yourself.  But a good guide comes from the Phunks [Knowledge Base](https://phunks.gitbook.io/knowledge-base/resources/history)
 
-Cryptopunks on Ethereum are known for their 
-Phunks https://phunks.gitbook.io/knowledge-base/about/readme/phunk-is-../phunk-is-web3
-CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
-Spacepunks
 
-1000 creator
-9000 free 
+## Zeniqpunks Future
+The future of Zeniq CryptoPunks is yet to be written.  And it won't be written by me alone.  I invite crypto enthusiasts to join in this journey.  Feel free to reachout to collaborate.
 
-opensource
+## Zeniqpunks Details 
+10,000 Supply
+ERC-721 Standard
+License [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Cost = Free (as in beer)
+1,000 Minted by creator
+Open Sourced
 
-The future of zeniqpunks are yet to be written
+
 
 
