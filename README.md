@@ -1,4 +1,4 @@
-# ZeniqPunks-Knowledge-Base
+# ZeniqPunks-NFT
 
 ## Zeniq CryptoPunks
 *New Chain, Same Punk*
