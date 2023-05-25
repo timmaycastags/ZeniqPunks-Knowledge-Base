@@ -7,7 +7,7 @@ Why [Zeniq](https://www.zeniq.com) blockchain?  I really don't know.  Zeniq is a
 
 And quite frankly, that is where they fucked up. 
 
-<img src="https://arweave.net/y0eXz8x0rgssFM80M1JYXQHbQMHtafYNsPkoFztNDWE/2585.png" width="420" height="420"><img src="https://ipfs.io/ipfs/QmTRcRXo6cXByjHYHTVxGpag6vpocrG3rxjPC9PxKAArR9/5262.png" width="420" height="420">
+<img src="https://arweave.net/y0eXz8x0rgssFM80M1JYXQHbQMHtafYNsPkoFztNDWE/2585.png" width="320" height="320"><img src="https://ipfs.io/ipfs/QmTRcRXo6cXByjHYHTVxGpag6vpocrG3rxjPC9PxKAArR9/5262.png" width="320" height="320">
 
 ## Cryptoweb
 The proliferation of crypto networks is due to the success of [Bitcoin](https://nakamotoinstitute.org).  Bitcoin's introduction as a peer-to-peer version of electronic cash has been revolutionary.  The bold idea of a pseudo anonymous, censorship resistant decentralized money has given power to anyone willing to "take the orange pill".  And with Bitcoins success, has come an endless amount of copycats.  Blockchains *can* be used to solve different problems,  but it doesn't mean they *should* be used.  The use case of the blockchain dictates its value.  The number one use case for blockchain is money.  Bitcoin solves this.  
