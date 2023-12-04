@@ -26,7 +26,7 @@ When the Zeniq EVM smart chain was announced, it was a clear opportunity to esta
 
 
 ## Zeniq Punks Future
-The future of Zeniq CryptoPunks is yet to be written; and it won't be written by me alone.  And, it won't be written by me alone.  It is not my intention to "lead" this collection.  In fact it's quite the opposite.  I invite ZENIQ blockchain enthusiasts to join in this journey.  Feel free to reach out to collaborate. 
+The future of Zeniq CryptoPunks is yet to be written; and it won't be written by me alone.  It is not my intention to "lead" this collection.  In fact it's quite the opposite.  I invite ZENIQ blockchain enthusiasts to join in this journey.  Feel free to reach out to collaborate. 
 
 ## Zeniq Punks Details 
 * 10,000 Supply
