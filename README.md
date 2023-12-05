@@ -36,4 +36,5 @@ The future of Zeniq CryptoPunks is yet to be written; and it won't be written by
 * 1,000 Minted by creator
 * Open Sourced
 * On-chain storage with [Arweave](https://www.arweave.org/)
+* Mint Page [https://mintzeniqpunks.netlify.app/]
 
