@@ -34,7 +34,7 @@ The future of Zeniq CryptoPunks is yet to be written; and it won't be written by
 * License [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 * Cost = Free (as in beer)
 * 1,000 Minted by creator
-* Token Contract [0xB1E4a13Dd08d2410600EC0aF1C904B0fa0925CaE][https://zeniqscan.com/token/0xB1E4a13Dd08d2410600EC0aF1C904B0fa0925CaE]
+* Token Contract [0xB1E4a13Dd08d2410600EC0aF1C904B0fa0925CaE](https://zeniqscan.com/token/0xB1E4a13Dd08d2410600EC0aF1C904B0fa0925CaE)
 * "On-chain" storage with [Arweave](https://www.arweave.org/)
 * Mint Page [https://mintzeniqpunks.netlify.app/]
 
